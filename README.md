@@ -1,10 +1,10 @@
-# The Efficinet Frontier (Markowitz Portfolio Optimisation)
+# The Efficient Frontier (Markowitz Portfolio Optimization)
 
-Attached Jupyter Notebook is the efficient frontier modeling I implemented as a part of my blog post.
-Accompanying blog posts can be found from my Medium account:
+I've included for you the attached Jupyter Notebook, which is the efficient frontier modeling I implemented as a part of my blog post.
+Accompanying blog posts can be found on my Medium account:
 https://medium.com/@rickykim78
 
-Below implementations can be found in the attached notebook.
+The below implementations can be found in the attached notebook.
 
 ## Portfolio Optimisation using Random Portfolio Generation<br>
 
